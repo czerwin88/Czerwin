@@ -1,4 +1,4 @@
 Kursy/
-        Zadania/
-        snippets/
+Zadania/
+snippets/
 
